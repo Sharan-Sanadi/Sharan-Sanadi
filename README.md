@@ -22,6 +22,17 @@ I actively work on projects, improve my development workflow, and refine my prob
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+# 📊 GitHub Stats:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sharan-Sanadi's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-Sanadi&layout=compact&theme=radical&langs_count=8" alt="Sharan-Sanadi's Top Languages" />
+  </a>
+</p>
+
+
 # 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake-dark.svg" />
