@@ -25,7 +25,7 @@ I actively work on projects, improve my development workflow, and refine my prob
 # 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sharan-Sanadi's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&count_private=true" alt="Sharan-Sanadi's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-Sanadi&layout=compact&theme=radical&langs_count=8" alt="Sharan-Sanadi's Top Languages" />
