@@ -1,5 +1,9 @@
 name: Generate Snake
 
+# Grant write permission to push generated SVGs to repository
+permissions:
+  contents: write
+
 on:
   # Run automatically every 12 hours
   schedule:
