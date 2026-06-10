@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7BC&width=435&lines=I'M+SHARAN+SANADI)](https://git.io/typing-svg)
+
 # 💫 About Me:
 Hi there! I’m Sharan, a Computer Science student who enjoys building real-world applications and learning new technologies through hands-on development.
 
@@ -21,6 +22,13 @@ I actively work on projects, improve my development workflow, and refine my prob
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+# 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake.svg" />
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -31,9 +39,5 @@ I actively work on projects, improve my development workflow, and refine my prob
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
-**SharanSanadi/SharanSanadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+**Sharan-Sanadi/Sharan-Sanadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
