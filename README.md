@@ -8,7 +8,15 @@ I primarily focus on full-stack development, creating backend services and inter
 
 I actively work on projects, improve my development workflow, and refine my problem-solving skills with the goal of becoming a high-impact software engineer.
 
-
+# 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/sharan-sanadi-7b32701b0" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sharansanadi2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,10 +30,13 @@ I actively work on projects, improve my development workflow, and refine my prob
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats & Streaks:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&count_private=true" alt="Sharan-Sanadi's GitHub stats" />
+  </a>
+  <a href="https://github.com/a/github-readme-streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan-Sanadi&theme=radical" alt="Sharan-Sanadi's GitHub Streak" />
   </a>
 </p>
 
