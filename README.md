@@ -30,12 +30,14 @@ I actively work on projects, improve my development workflow, and refine my prob
 </p>
 
 
-# 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sharan-Sanadi/Sharan-Sanadi/output/github-snake.svg" />
-</picture>
+# 📈 Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
+    <img alt="Sharan Sanadi's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
+  </picture>
+</p>
 
 
 ### ✍️ Random Dev Quote
