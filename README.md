@@ -11,11 +11,10 @@ I am a Computer Science student and Full-Stack Developer specializing in buildin
 
 - 💼 **Looking for:** Software Engineering Internships / Junior Full-Stack Developer roles
 - 🎓 **Education:** Computer Science Student
-- ✍️ **Active Contributions:** Open-source contributor to [CircuitVerse](https://github.com/CircuitVerse/community-dashboard) and [PassX](https://github.com/PassX/PassX).
 
 ---
 
-## 🤝 Connect & Resume
+## 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/sharan-sanadi-7b32701b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,9 +24,6 @@ I am a Computer Science student and Full-Stack Developer specializing in buildin
   </a>
   <a href="https://github.com/Sharan-Sanadi" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Website-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
