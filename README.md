@@ -37,8 +37,8 @@ I actively work on projects, improve my development workflow, and refine my prob
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&count_private=true" alt="Sharan-Sanadi's GitHub stats" />
   </a>
-  <a href="https://github.com/a/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharan-Sanadi&theme=radical" alt="Sharan-Sanadi's GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Sharan-Sanadi&theme=radical" alt="Sharan-Sanadi's GitHub Streak" />
   </a>
 </p>
 
