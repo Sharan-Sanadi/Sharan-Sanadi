@@ -1,13 +1,13 @@
 # Hi there! I'm Sharan Sanadi 👋
 
 <p align="left">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&lines=Aspiring+Full-Stack+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&lines=Aspiring+Full-Stack+Engineer;AI+%26+ML+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ## 📌 Executive Summary
-I am a Computer Science student and Full-Stack Developer specializing in building scalable web applications and integrating AI/LLM models. I focus on clean architectures, modern development workflows, and writing performant, secure code. 
+I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specializing in building scalable web applications, developing machine learning models, and integrating AI/LLMs. I focus on clean architectures, modern development workflows, and writing performant, secure code. 
 
 - 💼 **Looking for:** Software Engineering Internships / Junior Full-Stack Developer roles
 - 🎓 **Education:** Computer Science Student
@@ -48,34 +48,41 @@ I am a Computer Science student and Full-Stack Developer specializing in buildin
   <tr>
     <td valign="top" width="50%">
       <h3>💻 Programming Languages</h3>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h3>🌐 Frontend Technologies</h3>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h3>⚙️ Backend & AI Frameworks</h3>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square" />
-      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h3>🗄️ Database & Cloud / DevOps</h3>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
@@ -107,6 +114,6 @@ I am a Computer Science student and Full-Stack Developer specializing in buildin
 ---
 
 ## ⚡ Beyond Coding
-* 💬 Ask me about: **Web Development, AI agent integration, and Clean Architecture**
+* 💬 Ask me about: **Web Development, AI/ML models, AI agent integration, and Clean Architecture**
 * 🌱 Open Source: Contributed features and bug fixes to established community repositories.
 * 🚀 Goals: Aiming to design and deploy highly secure, modern SaaS products.
