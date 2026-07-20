@@ -40,6 +40,15 @@ I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specia
   - **AI Vault Space:** Secure media storage using Cloudinary signed tokens and MongoDB catalog.
 * **Links:** [Live Demo](https://astra-os-phi.vercel.app/) • [GitHub Repo](https://github.com/Sharan-Sanadi/ASTRA-OS)
 
+### 🤖 **[DevCord AI](https://dev-cord-client.vercel.app)** | *AI-Powered Developer Community Platform*
+* **Description:** An intelligent developer community platform that integrates AI to enhance collaboration, code discussions, and knowledge sharing among developers.
+* **Tech Stack:** React, Node.js, Express, MongoDB, AI/LLM Integration.
+* **Key Features:**
+  - **AI-Powered Assistance:** Smart AI assistant to help with code reviews, debugging, and technical discussions.
+  - **Developer Community:** Real-time collaboration and community features for developers.
+  - **Intelligent Search:** AI-enhanced search for finding relevant discussions and solutions.
+* **Links:** [Live Demo](https://dev-cord-client.vercel.app)
+
 ---
 
 ## 🛠️ Technical Toolkit
