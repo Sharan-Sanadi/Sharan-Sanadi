@@ -158,6 +158,10 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
       </a>
       <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=devpost&logoColor=white"/>
     </td>
+    <td align="center" valign="middle">
+      <img src="assets/ibm-ai-fundamentals-badge.png" width="100" title="IBM SkillsBuild - Artificial Intelligence Fundamentals"/><br/><br/>
+      <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-052F7F?style=flat-square&logo=ibm&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
