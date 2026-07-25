@@ -194,45 +194,7 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
 
 <br/>
 
-### 🎓 Oracle Agentic AI Foundations Associate (2026)
-
 </div>
-
-<table>
-<tr>
-<td>
-
-> Focused on fundamentals of Agentic AI systems, autonomous agents, and real-world AI applications.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-| Core Areas | Key Concepts |
-|---|---|
-| 🤖 **Agentic AI Systems** | Architecture of autonomous agents, reasoning loops, and planning methodologies |
-| 🧠 **Autonomous Agents** | Design patterns for self-directed AI tools, task decomposition, and memory systems |
-| 💼 **Real-World Applications** | Integration of agents with tools, external APIs, and business automation workflows |
-
-<br/>
-
-### 🛠️ Google Solution Challenge 2026: Build with AI
-
-</div>
-
-<table>
-<tr>
-<td>
-
-> Awarded for successful prototype submission in the Solution Challenge 2026: Build with AI, recognizing autonomous agent design, API integration, and collaborative problem-solving.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 ---
 
