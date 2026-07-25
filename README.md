@@ -52,9 +52,7 @@ I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specia
 
 ---
 
-## 🔨 What I'm Building Right Now
-
-### AstraOS — SaaS Productivity Platform as a Browser OS
+## ⚡ What I Bring to Your Team
 
 </div>
 
@@ -62,40 +60,11 @@ I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specia
 <tr>
 <td>
 
-> A production-grade, AI-powered personal productivity platform reimagined as a desktop OS in the browser.
+I bridge the gap between AI integration and full-stack implementation. I don't just write code; I design scalable SaaS architectures, secure endpoints, and build reliable AI-agent workflows.
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```
-User Login (Vite/React)
-    ↓
-Command Center Dashboard (Desktop OS UI)
-    ↓
-AYNTK AI Copilot (OpenRouter APIs) ──→ Context-Aware Recommendations
-    ↓
-AI Vault Space (Cloudinary Signed Tokens) ──→ Secure Media Storage
-    ↓
-Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
-```
-
-</div>
-
-<table>
-<tr>
-<td>
-
-**Key Features & Implementation:**
-- **AYNTK AI Copilot:** Context-aware AI assistant utilizing OpenRouter with configurable models and token/timeout limits.
-- **Command Center Dashboard:** Desktop-style task board with focus windows and widgets.
-- **AI Vault Space:** Secure media storage using Cloudinary signed tokens and MongoDB catalog.
-
-**Tech Stack:** React 19, TypeScript, Node.js (Express), MongoDB (Mongoose 9), Vite, Cloudinary, OpenRouter API.
-
-**Links:** [Live Demo](https://astra-os-phi.vercel.app/) • [GitHub Repo](https://github.com/Sharan-Sanadi/ASTRA-OS)
+- 🚀 **Specialties:** Full-Stack SaaS Development • GenAI/LLM Application Design • Machine Learning Regression
+- 🛠️ **Engineering Practices:** Clean Architecture • Performant APIs (Node.js/FastAPI) • Robust Input Validation & Security
+- 🎓 **Credentials:** Oracle Agentic AI Associate • Google Solution Challenge Participant (Build with AI)
 
 </td>
 </tr>
