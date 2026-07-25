@@ -13,7 +13,7 @@
 # Sharan Sanadi
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&lines=Aspiring+Full-Stack+Engineer;AI+%26+ML+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&center=true&lines=Aspiring+Full-Stack+Engineer;AI+%26+ML+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
