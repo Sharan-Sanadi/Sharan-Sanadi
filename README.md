@@ -185,9 +185,9 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
     </td>
     <td align="center" valign="middle">
       <a href="assets/build-with-ai-certificate.pdf" target="_blank">
-        <img src="assets/build-with-ai-certificate.png" width="180" title="Solution Challenge 2026: Build with AI Certificate"/><br/><br/>
+        <img src="assets/build-with-ai-badge.png" width="100" title="Solution Challenge 2026: Build with AI Certificate"/><br/><br/>
       </a>
-      <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=devpost&logoColor=white"/>
     </td>
   </tr>
 </table>
