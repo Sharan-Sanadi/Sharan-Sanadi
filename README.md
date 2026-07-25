@@ -13,10 +13,8 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://github.com/Sharan-Sanadi" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%2F%20Full--Stack%20%2F%20AI%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Open to Work"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Sharan-Sanadi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
@@ -32,7 +30,6 @@
 
 I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specializing in building scalable web applications, developing machine learning models, and integrating AI/LLMs. I focus on clean architectures, modern development workflows, and writing performant, secure code.
 
-* **Looking for:** Software Engineering Internships / Junior Full-Stack Developer roles
 * **Education:** Computer Science Student
 
 </td>
@@ -136,14 +133,6 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/openlake-project/openlake">OpenLake</a></h3>
-      <img src="https://img.shields.io/badge/Storage%20Engine-Rust-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GPU%20Workloads-io__uring-blue?style=flat-square"/>
-      <br/><br/>
-      Distributed object storage for GPU workloads. Built in Rust on `io_uring`, OpenLake provides state-of-the-art storage performance and GPUDirect zerocopy.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/io__uring-blue?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -247,7 +236,6 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
 
 ## 🤝 Let's Talk
 
-I'm actively looking for **Software Engineering Internships / Junior Full-Stack Developer roles**.  
 If you're building something where clean code and system design matter, let's connect.
 
 <a href="https://www.linkedin.com/in/sharan-sanadi-7b32701b0" target="_blank">
