@@ -12,23 +12,25 @@
 
 # Sharan Sanadi
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&lines=Aspiring+Full-Stack+Engineer;AI+%26+ML+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22F7BC&width=500&lines=Aspiring+Full-Stack+Engineer;AI+%26+ML+Engineer;AI+%26+LLM+App+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharan-sanadi-7b32701b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sharansanadi2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Sharan-Sanadi" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sharan-Sanadi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <br/>
-
-<a href="https://www.linkedin.com/in/sharan-sanadi-7b32701b0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sharansanadi2006@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/Sharan-Sanadi" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Sharan-Sanadi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
 
 ## 🧠 Who I Am
 
