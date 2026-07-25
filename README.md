@@ -132,21 +132,30 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/Sharan-Sanadi/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a></h3>
-      <img src="https://img.shields.io/badge/Machine%20Learning-Classification-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Class%20Imbalance-0.173%25-red?style=flat-square"/>
-      <br/><br/>
-      An end-to-end Machine Learning project to detect fraudulent credit card transactions, using robust validation strategies and pipeline design to handle extreme class imbalance.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>💳 <a href="https://github.com/Sharan-Sanadi/Credit-Card-Fraud-Detection">Credit Card Fraud Detection</a></h3>
+        <img src="https://img.shields.io/badge/Machine%20Learning-Classification-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Class%20Imbalance-0.173%25-red?style=flat-square"/>
+        <br/><br/>
+        An end-to-end Machine Learning project to detect fraudulent credit card transactions, using robust validation strategies and pipeline design to handle extreme class imbalance.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏥 <a href="https://github.com/Sharan-Sanadi/Medical-Insurance-Cost-Prediction">Medical Insurance Cost Prediction</a></h3>
+        <img src="https://img.shields.io/badge/Machine%20Learning-Regression-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Evaluation-R2%20Score%20%2F%20RMSE-blue?style=flat-square"/>
+        <br/><br/>
+        A predictive machine learning project utilizing Regression models to estimate medical insurance costs based on physical, lifestyle, and demographic attributes.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </td>
+    </tr>
 </table>
 
 ---
@@ -170,9 +179,15 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
 
 <table align="center" border="0" cellpadding="16">
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="assets/oracle-agentic-ai-badge.jpg" width="120" title="Oracle Certified Foundations Associate - Agentic AI"/><br/><br/>
       <img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Foundations%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    </td>
+    <td align="center" valign="middle">
+      <a href="assets/build-with-ai-certificate.pdf" target="_blank">
+        <img src="assets/build-with-ai-certificate.png" width="180" title="Solution Challenge 2026: Build with AI Certificate"/><br/><br/>
+      </a>
+      <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=google&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -200,6 +215,24 @@ Database (MongoDB Mongoose 9) ──→ User Catalog & State Management
 | 🤖 **Agentic AI Systems** | Architecture of autonomous agents, reasoning loops, and planning methodologies |
 | 🧠 **Autonomous Agents** | Design patterns for self-directed AI tools, task decomposition, and memory systems |
 | 💼 **Real-World Applications** | Integration of agents with tools, external APIs, and business automation workflows |
+
+<br/>
+
+### 🛠️ Google Solution Challenge 2026: Build with AI
+
+</div>
+
+<table>
+<tr>
+<td>
+
+> Awarded for successful prototype submission in the Solution Challenge 2026: Build with AI, recognizing autonomous agent design, API integration, and collaborative problem-solving.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
