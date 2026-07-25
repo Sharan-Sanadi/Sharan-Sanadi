@@ -100,6 +100,15 @@ I am a Computer Science student, Full-Stack Developer, and AI/ML Engineer specia
 
 ---
 
+## 🏆 Certifications
+
+- **Oracle Agentic AI Foundations Associate** (2026)
+  *Focused on fundamentals of Agentic AI systems, autonomous agents, and real-world AI applications.*
+  
+  <img src="assets/oracle-agentic-ai-badge.jpg" alt="Oracle Certified Foundations Associate - Agentic AI" width="150" />
+
+---
+
 ## 📈 GitHub Insights
 
 <p align="center">
