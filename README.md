@@ -79,26 +79,35 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Sharan-Sanadi/ASTRA-OS">AstraOS</a></h3>
-      <img src="https://img.shields.io/badge/Productivity-Browser%20OS-brightgreen?style=flat-square"/>
+      <h3>🛡️ <a href="https://yatra-shield-eta.vercel.app/">YatraShield</a></h3>
+      <img src="https://img.shields.io/badge/AI--Powered-Tourist%20Safety-brightgreen?style=flat-square"/>
       <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square"/>
       <br/><br/>
-      A production-grade, AI-powered personal productivity platform reimagined as a desktop OS in the browser. Features context-aware AI copilot and secure file vaults.
+      An AI-powered Tourist Safety & Emergency Intelligence Platform providing intelligent risk insights, interactive safety maps, emergency assistance, trip management, and AI-driven safety recommendations.
       <br/><br/>
-      <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://dev-cord-client.vercel.app">DevCord AI</a></h3>
-      <img src="https://img.shields.io/badge/Developer-Community-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/AI--Powered-Review%20%26%20Search-8B5CF6?style=flat-square"/>
+      <h3>🧠 <a href="https://cogniflow-ai.vercel.app/">CogniFlow AI</a></h3>
+      <img src="https://img.shields.io/badge/Accessibility-AI--Powered-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square"/>
       <br/><br/>
-      An intelligent developer community platform integrating AI for code reviews, interactive debugging, smart searching, and collaboration.
+      An AI-powered accessibility and inclusive-technology platform designed to improve digital accessibility through intelligent assistance and a modern, responsive user experience.
       <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AI%20Integration-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
   </tr>
     <tr>
@@ -158,9 +167,15 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
       </a>
       <img src="https://img.shields.io/badge/Hack2Skill-Build%20with%20AI%20Challenge-FF4500?style=flat-square&logo=devpost&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle">
       <img src="assets/ibm-ai-fundamentals-badge.png" width="100" title="IBM SkillsBuild - Artificial Intelligence Fundamentals"/><br/><br/>
       <img src="https://img.shields.io/badge/IBM-Skill%20Badge-0056d2?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/mongodb-ai-agents-badge.png" width="110" title="MongoDB - Building AI Agents with MongoDB"/><br/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-AI%20Agents%20Developer-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -176,7 +191,7 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical&count_private=true" alt="Sharan-Sanadi's GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical" alt="Sharan-Sanadi's GitHub stats"/>
 </td>
 <td>
 <img height="180em" src="https://streak-stats.demolab.com/?user=Sharan-Sanadi&theme=radical" alt="Sharan-Sanadi's GitHub Streak"/>
@@ -186,11 +201,13 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
 
 ### 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
-  <img alt="Sharan Sanadi's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
-</picture>
+<a href="https://github.com/Sharan-Sanadi">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
+    <img alt="Sharan Sanadi's Contribution Graph" src="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" width="100%" />
+  </picture>
+</a>
 
 ---
 
