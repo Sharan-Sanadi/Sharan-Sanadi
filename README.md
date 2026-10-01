@@ -123,15 +123,22 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </td>
       <td width="50%" valign="top">
-        <h3>🏥 <a href="https://github.com/Sharan-Sanadi/Medical-Insurance-Cost-Prediction">Medical Insurance Cost Prediction</a></h3>
-        <img src="https://img.shields.io/badge/Machine%20Learning-Regression-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Evaluation-R2%20Score%20%2F%20RMSE-blue?style=flat-square"/>
+        <h3>🔥 <a href="https://github.com/Sharan-Sanadi/agnidrishti-ai">Agnidrishti</a></h3>
+        <img src="https://img.shields.io/badge/Thermal%20Intelligence-Satellite%20AI-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square"/>
         <br/><br/>
-        A predictive machine learning project utilizing Regression models to estimate medical insurance costs based on physical, lifestyle, and demographic attributes.
+        An AI-powered industrial fire and thermal-source detection system that analyzes satellite hotspot data, temporal persistence, and industrial context to identify potentially hazardous industrial thermal events.
         <br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-Explainable_AI-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NASA_FIRMS-VIIRS-E03C31?style=flat-square&logo=nasa&logoColor=white"/>
       </td>
     </tr>
 </table>
