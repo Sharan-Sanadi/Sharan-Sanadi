@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="390" viewBox="0 0 480 390"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="435" viewBox="0 0 480 435"
 font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -7,8 +7,8 @@ font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
 </linearGradient>
 </defs>
 
-<rect width="480" height="390" rx="12" fill="url(#bg)"/>
-<rect x="0.5" y="0.5" width="479" height="389" rx="12" fill="none" stroke="#30363d"/>
+<rect width="480" height="435" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="479" height="434" rx="12" fill="none" stroke="#30363d"/>
 <line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
 
 <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
@@ -43,21 +43,26 @@ Sharan-Sanadi@github: ~$ neofetch
 
 <text x="20" y="272" fill="#58a6ff">── Projects ──────────────────</text>
 
-<circle cx="24" cy="290" r="2.5" fill="#3fb950"/>
-<text x="34" y="294" fill="#c9d1d9">AstraOS Productivity Platform</text>
-<text x="48" y="309" fill="#7d8590">↳ Main Focus / Live OS in Browser</text>
+<circle cx="24" cy="289" r="2.5" fill="#3fb950"/>
+<a href="https://yatra-shield-eta.vercel.app/" xlink:href="https://yatra-shield-eta.vercel.app/" target="_blank"><text x="34" y="293" fill="#c9d1d9">YatraShield</text></a>
+<text x="48" y="307" fill="#7d8590">↳ AI Tourist Safety</text>
 
-<circle cx="24" cy="325" r="2.5" fill="#3fb950"/>
-<text x="34" y="329" fill="#c9d1d9">DevCord AI Community Platform</text>
+<circle cx="24" cy="323" r="2.5" fill="#3fb950"/>
+<a href="https://cogniflow-ai.vercel.app/" xlink:href="https://cogniflow-ai.vercel.app/" target="_blank"><text x="34" y="327" fill="#c9d1d9">CogniFlow AI</text></a>
+<text x="48" y="341" fill="#7d8590">↳ Accessibility Platform</text>
 
-<circle cx="24" cy="345" r="2.5" fill="#3fb950"/>
-<text x="34" y="349" fill="#c9d1d9">Credit Card Fraud Detection</text>
-<text x="48" y="364" fill="#7d8590">↳ Machine Learning Model</text>
+<circle cx="24" cy="357" r="2.5" fill="#3fb950"/>
+<text x="34" y="361" fill="#c9d1d9">Credit Card Fraud Detection</text>
+<text x="48" y="375" fill="#7d8590">↳ ML Fraud Detection</text>
+
+<circle cx="24" cy="391" r="2.5" fill="#3fb950"/>
+<a href="https://github.com/Sharan-Sanadi/agnidrishti-ai" xlink:href="https://github.com/Sharan-Sanadi/agnidrishti-ai" target="_blank"><text x="34" y="395" fill="#c9d1d9">Agnidrishti</text></a>
+<text x="48" y="409" fill="#7d8590">↳ Industrial Fire AI</text>
 
 <text x="250" y="332" fill="#58a6ff">── Highlights ───────────────</text>
 <text x="250" y="352" fill="#c9d1d9">🏆 Oracle Agentic AI Cert</text>
 <text x="250" y="370" fill="#c9d1d9">🚀 SaaS &amp; LLM Integrations</text>
 
-<text x="240" y="386" text-anchor="middle" fill="#7d8590">▼ SCROLL DOWN FOR MORE ▼</text>
+<text x="240" y="426" text-anchor="middle" fill="#7d8590">▼ SCROLL DOWN FOR MORE ▼</text>
 </g>
 </svg>
