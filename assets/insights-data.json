@@ -1,42 +1,42 @@
 {
   "username": "Sharan-Sanadi",
-  "timestamp_utc": "2026-10-21T08:22:36Z",
+  "timestamp_utc": "2026-10-21T16:16:52Z",
   "status": "operational",
   "errors": {},
   "stars": {
     "value": 2,
-    "source": "GitHub REST API (/users/{username}/repos)",
+    "source": "GitHub GraphQL API (repositories)",
     "definition": "Sum of stargazers in public non-fork repositories owned by user"
   },
   "commits": {
-    "value": 160,
-    "source": "GitHub REST Commit Search API (/search/commits)",
-    "definition": "Commits authored by user during rolling 12-month period"
+    "value": 174,
+    "source": "GitHub GraphQL API (contributionsCollection.totalCommitContributions)",
+    "definition": "Commit contributions credited to profile during rolling 12-month period"
   },
   "prs": {
     "value": 4,
-    "source": "GitHub REST Search API (/search/issues?type=pr)",
+    "source": "GitHub GraphQL API (pullRequests.totalCount)",
     "definition": "Total pull requests authored by user (all-time)"
   },
   "issues": {
     "value": 2,
-    "source": "GitHub REST Search API (/search/issues?type=issue)",
+    "source": "GitHub GraphQL API (issues.totalCount)",
     "definition": "Total issues authored by user (all-time, excluding PRs)"
   },
   "contributed_to": {
-    "value": 2,
-    "source": "GitHub REST Authored Activities in External Repositories",
-    "definition": "Distinct repositories outside owner profile contributed to in rolling 12 months"
+    "value": 11,
+    "source": "GitHub GraphQL API (contributionsCollection)",
+    "definition": "Distinct repositories contributed to during rolling 12 months"
   },
   "calendar": {
-    "source": "GitHub Public Calendar API",
-    "total_contributions": 554,
-    "days_count": 368,
-    "current_streak": 2,
-    "current_range": "Oct 20 - Oct 21",
-    "longest_streak": 21,
-    "longest_range": "Jul 15 - Aug 04",
-    "timeline_range": "Oct 19 - Oct 21",
+    "source": "GitHub GraphQL API",
+    "total_contributions": 195,
+    "days_count": 366,
+    "current_streak": 1,
+    "current_range": "Oct 21",
+    "longest_streak": 6,
+    "longest_range": "Aug 08 - Aug 13",
+    "timeline_range": "Oct 21 - Oct 21",
     "recent_30_days": [
       {
         "date": "2026-09-22",
@@ -44,7 +44,7 @@
       },
       {
         "date": "2026-09-23",
-        "count": 4
+        "count": 0
       },
       {
         "date": "2026-09-24",
@@ -52,15 +52,15 @@
       },
       {
         "date": "2026-09-25",
-        "count": 17
+        "count": 0
       },
       {
         "date": "2026-09-26",
-        "count": 17
+        "count": 0
       },
       {
         "date": "2026-09-27",
-        "count": 7
+        "count": 0
       },
       {
         "date": "2026-09-28",
@@ -68,7 +68,7 @@
       },
       {
         "date": "2026-09-29",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-09-30",
@@ -76,35 +76,35 @@
       },
       {
         "date": "2026-10-01",
-        "count": 15
+        "count": 6
       },
       {
         "date": "2026-10-02",
-        "count": 4
+        "count": 0
       },
       {
         "date": "2026-10-03",
-        "count": 4
+        "count": 0
       },
       {
         "date": "2026-10-04",
-        "count": 6
+        "count": 0
       },
       {
         "date": "2026-10-05",
-        "count": 16
+        "count": 0
       },
       {
         "date": "2026-10-06",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-10-07",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-10-08",
-        "count": 6
+        "count": 0
       },
       {
         "date": "2026-10-09",
@@ -112,23 +112,23 @@
       },
       {
         "date": "2026-10-10",
-        "count": 5
+        "count": 0
       },
       {
         "date": "2026-10-11",
-        "count": 10
+        "count": 0
       },
       {
         "date": "2026-10-12",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-10-13",
-        "count": 1
+        "count": 0
       },
       {
         "date": "2026-10-14",
-        "count": 19
+        "count": 0
       },
       {
         "date": "2026-10-15",
@@ -152,11 +152,11 @@
       },
       {
         "date": "2026-10-20",
-        "count": 3
+        "count": 0
       },
       {
         "date": "2026-10-21",
-        "count": 21
+        "count": 3
       }
     ]
   }
