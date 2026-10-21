@@ -197,24 +197,24 @@ I bridge the gap between AI integration and full-stack implementation. I don't j
 
 <table>
 <tr>
-<td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharan-Sanadi&show_icons=true&theme=radical" alt="Sharan-Sanadi's GitHub stats"/>
+<td align="center" valign="middle">
+<img height="195" src="./assets/github-stats.svg" alt="Sharan-Sanadi's GitHub stats"/>
 </td>
-<td>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Sharan-Sanadi&theme=radical" alt="Sharan-Sanadi's GitHub Streak"/>
+<td align="center" valign="middle">
+<img height="195" src="./assets/github-streak.svg" alt="Sharan-Sanadi's GitHub Streak"/>
 </td>
 </tr>
 </table>
 
 ### 📈 Contribution Graph
 
-<a href="https://github.com/Sharan-Sanadi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react&custom_title=Sharan%20Sanadi" />
-    <img alt="Sharan Sanadi's Contribution Graph" src="https://github-activity-graph.vercel.app/graph?username=Sharan-Sanadi&theme=react-dark&custom_title=Sharan%20Sanadi" width="100%" />
-  </picture>
-</a>
+<p align="center">
+  <img src="./assets/contribution-graph.svg" alt="Sharan Sanadi's 30-Day Contribution Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>🛡️ <b>Data Provenance:</b> 100% Live &amp; Verified via Official GitHub REST &amp; GraphQL APIs • <b>Status:</b> <code>Live API: Operational</code> • <b>Last Updated:</b> <code>2026-10-21T08:22:36Z</code></sub>
+</p>
 
 ---
 

@@ -1,0 +1,54 @@
+<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+  <title id="titleId">Sharan-Sanadi's GitHub Stats</title>
+  <desc id="descId">Total Stars: 2, Commits: 160, PRs: 4, Issues: 2, Contributed to: 2</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e; animation: fadeInAnimation 0.8s ease-in-out forwards; }
+    .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e; }
+    .stat-val { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7; }
+    .icon { fill: #f8d847; }
+    .badge { font: 700 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8d847; }
+    @keyframes fadeInAnimation { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+
+  <rect width="467" height="195" rx="6" fill="#141321" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Card Title -->
+  <text x="25" y="35" class="header">Sharan-Sanadi's GitHub Stats</text>
+  <rect x="360" y="20" width="82" height="20" rx="10" fill="#222738"/>
+  <text x="401" y="34" text-anchor="middle" class="badge">100% LIVE</text>
+
+  <!-- Total Stars Earned -->
+  <g transform="translate(25, 60)">
+    <path class="icon" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    <text x="25" y="12" class="stat-label">Total Stars Earned:</text>
+    <text x="230" y="12" class="stat-val">2</text>
+  </g>
+
+  <!-- Total Commits (last year) -->
+  <g transform="translate(25, 85)">
+    <path class="icon" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+    <text x="25" y="12" class="stat-label">Total Commits (last year):</text>
+    <text x="230" y="12" class="stat-val">160</text>
+  </g>
+
+  <!-- Total PRs -->
+  <g transform="translate(25, 110)">
+    <path class="icon" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a2.25 2.25 0 100 4.5 2.25 2.25 0 000-4.5zm-1 9a2.25 2.25 0 100 4.5 2.25 2.25 0 000-4.5zm9 0a2.25 2.25 0 100 4.5 2.25 2.25 0 000-4.5z"/>
+    <text x="25" y="12" class="stat-label">Total PRs:</text>
+    <text x="230" y="12" class="stat-val">4</text>
+  </g>
+
+  <!-- Total Issues -->
+  <g transform="translate(25, 135)">
+    <path class="icon" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+    <text x="25" y="12" class="stat-label">Total Issues:</text>
+    <text x="230" y="12" class="stat-val">2</text>
+  </g>
+
+  <!-- Contributed to (last year) -->
+  <g transform="translate(25, 160)">
+    <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5z"/>
+    <text x="25" y="12" class="stat-label">Contributed to (last year):</text>
+    <text x="230" y="12" class="stat-val">2</text>
+  </g>
+</svg>

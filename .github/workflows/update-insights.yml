@@ -1,0 +1,62 @@
+name: Refresh GitHub README Insights
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    # Note: GitHub Actions scheduled cron runs are queued and may execute with slight delay
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Enable manual on-demand execution
+
+# Ensure only one instance of this workflow runs at a time
+concurrency:
+  group: update-insights
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-insights:
+    name: Fetch Live Metrics & Regenerate Assets
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: ''
+
+      - name: Run Integrity & Verification Unit Tests
+        run: |
+          python scripts/test_insights.py
+
+      - name: Gather Live Data & Generate Verifiable Insights
+        env:
+          # Uses secret GH_TOKEN if configured by user, otherwise defaults to standard GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_insights.py --username Sharan-Sanadi --assets-dir assets --readme README.md
+
+      - name: Commit and Push if Assets Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage only assets and README
+          git add assets/github-stats.svg assets/github-streak.svg assets/contribution-graph.svg assets/insights-data.json README.md
+          
+          if git diff --staged --quiet; then
+            echo "No changes detected in insights data or rendered SVGs. Skipping commit."
+          else
+            echo "Changes detected in insights. Committing update..."
+            git commit -m "build(insights): update live API metrics and contribution graph [skip ci]"
+            git push
+          fi
