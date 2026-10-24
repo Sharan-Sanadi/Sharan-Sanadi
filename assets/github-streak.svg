@@ -14,7 +14,7 @@
   <g transform="translate(82.5, 0)">
     <text x="0" y="80" text-anchor="middle" class="val-primary">195</text>
     <text x="0" y="115" text-anchor="middle" class="lbl-primary">Total Contributions</text>
-    <text x="0" y="145" text-anchor="middle" class="sub-range">Oct 23 - Oct 23</text>
+    <text x="0" y="145" text-anchor="middle" class="sub-range">Oct 24 - Oct 24</text>
   </g>
 
   <!-- Center Column: Current Streak with Flame Ring -->
@@ -26,7 +26,7 @@
     <!-- Current Streak Number -->
     <text x="0" y="80" text-anchor="middle" class="val-streak">0</text>
     <text x="0" y="130" text-anchor="middle" class="lbl-streak">Current Streak</text>
-    <text x="0" y="152" text-anchor="middle" class="sub-range">Oct 23</text>
+    <text x="0" y="152" text-anchor="middle" class="sub-range">Oct 24</text>
   </g>
 
   <!-- Right Column: Longest Streak -->
