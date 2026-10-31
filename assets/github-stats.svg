@@ -1,6 +1,6 @@
 <svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
   <title id="titleId">Sharan-Sanadi's GitHub Stats</title>
-  <desc id="descId">Total Stars: 2, Commits: 177, PRs: 4, Issues: 2, Contributed to: 12</desc>
+  <desc id="descId">Total Stars: 2, Commits: 178, PRs: 4, Issues: 2, Contributed to: 13</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e; animation: fadeInAnimation 0.8s ease-in-out forwards; }
     .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e; }
@@ -28,7 +28,7 @@
   <g transform="translate(25, 85)">
     <path class="icon" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.002 4.002 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
     <text x="25" y="12" class="stat-label">Total Commits (last year):</text>
-    <text x="230" y="12" class="stat-val">177</text>
+    <text x="230" y="12" class="stat-val">178</text>
   </g>
 
   <!-- Total PRs -->
@@ -49,6 +49,6 @@
   <g transform="translate(25, 160)">
     <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5z"/>
     <text x="25" y="12" class="stat-label">Contributed to (last year):</text>
-    <text x="230" y="12" class="stat-val">12</text>
+    <text x="230" y="12" class="stat-val">13</text>
   </g>
 </svg>
