@@ -23,9 +23,9 @@
   <a href="mailto:sharansanadi2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Sharan-Sanadi" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="https://sharansanadi.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+</a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Sharan-Sanadi&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
